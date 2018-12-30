@@ -1,0 +1,33 @@
+body{
+	background-size: cover;
+}
+div.heading h1{
+	margin-left: 560px;
+	font-size: 70px;
+	margin-top: 100px;
+}
+div.Detail p1{
+	font-size: 25px;
+	margin-left: 525px;
+	margin-top: 150px;
+}
+div.Detail p2{
+	font-size: 25px;
+	margin-left: 525px;
+	margin-top: 250px;
+}
+.Detail button{
+	font-size: 20px;
+	margin-left: 625px;
+}
+.Detail a{
+	margin-left: 610px;
+	color: white;
+	font-size: 15px;
+}
+.Detail a:hover{
+	color: red;
+}
+.Detail button:hover{
+	color: blue;
+}

@@ -1,0 +1,31 @@
+body{
+	background-size: cover;
+	background-position: center;
+	width: 1000px;
+	height: 575px;
+}
+h1{
+	text-align: left;
+	margin-top: 70px;
+	margin-left: 50px;
+	font-size: 75px;
+	font-family: fantasy;
+	font-weight: normal;
+	color: black;
+	font-style: normal;
+}
+div.AdminDetails li a{
+	text-decoration: none;
+	margin-left: 250px;
+	color: white;
+	font-family: inherit;
+	font-weight: bold;
+	font-size: 20px;
+}
+div.AdminDetails li{
+	margin-top: 0;
+	list-style: none;
+}
+div.AdminDetails li a:hover{
+	color: red;
+}

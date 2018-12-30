@@ -1,0 +1,151 @@
+ * {margin: 0; padding: 0;}
+
+a { text-decoration: none; }
+.clearfix{ overflow: auto }
+
+.wrapper{
+	margin: auto;
+	width:1000px;
+}
+
+.top-bar{
+	border-radius: 5px;
+	margin-top: 10px;
+	width: 1000px;
+	background: maroon;
+	height: 50px;
+}
+
+.top-bar-links{
+	float:left;
+}
+
+
+.top-bar-links ul{
+	margin: 15px;
+	list-style: none; 
+}
+
+.top-bar-links ul li{
+	padding: 0 15px;
+	display: inline-block;
+	border-right: 1px solid white;
+}
+
+.top-bar-links ul li:last-child{
+	border: none;
+}
+
+.top-bar-links ul li a{
+	color: white;
+	font-size: 20px;
+
+}
+.top-bar-links ul li a:hover{
+	color: yellow;
+}
+.site-search{
+	padding: 3px 10px;
+	margin: 15px;
+	float:right;
+	background: white;
+	border-radius: 10px;
+}
+
+.site-search input{
+	border:0;
+	float: left;
+	margin-right: 10px;
+}
+
+.site-search button{
+	width: 50px;
+	height: 20px;
+	margin-right:none;
+	background: url(C:\Users\Chinthika\Desktop\sublime\systematic\img\search.jpg);
+	float: right;
+	border-radius: 5px;
+}
+header.logo{ 
+	float:left;
+ }
+
+header .logo h1{
+	font-family: serif;
+	font-weight: bold;
+	margin-top: 30px;
+	margin-left: 175px;
+	font-size: 48px;
+	font-weight: normal;
+	letter-spacing: -1px;
+	font-variant: small-caps;
+	text-align: left;
+}
+
+.logo h2{
+	margin-left: 175px;
+	text-align: left;
+	font-variant: small-caps;
+}
+.logo p{
+	font-family: sans-serif;
+	margin-left: 175px;
+	font-size: 20px;
+	text-align: left;
+}
+header .socialmedia {
+	float: right; 
+	margin-top: 0px; 
+	margin-right: 175px;
+}
+header .socialmedia ul{ 
+	list-style: none; 
+}
+header .socialmedia ul li{ 
+	display: inline; 
+}
+header .socialmedia ul li a{
+	padding: 6px;   
+	background-color: #444 ;
+	color: #fff;
+	display: inline-block;
+	border-radius: 20px;
+	margin-top: none;
+}
+header .socialmedia ul li a:hover{
+	background: blue;
+}
+
+nav{
+	background: #000;
+	background: linear-gradient(#0d0d0d,#404040,#0d0d0d);
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-radius: 5px;
+}
+nav ul{
+	list-style: none;
+
+}
+.navigation-bar{
+	width: 1000px;
+	margin-left: 180px;
+	height: 42px;
+}
+nav ul li{
+	display: inline;
+}
+nav ul li a{
+	color: #fff;
+	text-transform: uppercase;
+	margin: 10px 40px 10px 40px;
+	display: inline-block;
+
+}
+nav ul li a:hover{
+	color: yellow;
+}
+div.introimage{
+	margin-left: 180px;
+}

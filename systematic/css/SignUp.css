@@ -1,0 +1,54 @@
+body{
+	background-size: cover;
+}
+div.heading h1{
+	font-size: 60px;
+	margin-left: 300px;
+	margin-top: 80px;
+}
+div.Username{
+	font-size: 20px;
+	margin-left: 350px;
+	margin-top: 60px;
+}
+div.Username1{
+	font-size: 20px;
+	margin-left: 300px;
+}
+div.Email{
+	font-size: 20px;
+	margin-left: 350px;
+}
+div.Email1{
+	font-size: 20px;
+	margin-left: 300px;
+}
+div.PhoneNumber{
+	font-size: 20px;
+	margin-left: 320px;
+}
+div.PhoneNumber1{
+	font-size: 20px;
+	margin-left: 300px;
+}
+div.Password{
+	font-size: 20px;
+	margin-left: 340px;
+}
+div.Password1{
+	font-size: 20px;
+	margin-left: 300px;
+}
+div.ConfirmPassword{
+	font-size: 20px;
+	margin-left: 310px;
+}
+div.ConfirmPassword1{
+	font-size: 20px;
+	margin-left: 300px;
+}
+div.button{
+	margin-left: 350px;
+	width: 200px;
+	height: 100px;
+}
